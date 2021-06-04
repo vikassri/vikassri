@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**vikassri/vikassri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World! This is [Vikas Srivastava](https://vikassri.in/) 👋
 
-Here are some ideas to get you started:
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=vikassri&color=blue" alt="vikassri" /> 
+</p>
+I am an Solutions Architect, working in bigdata company. I have around 12 years experience. I love to try out new technology and do Automation.     
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🚀
+
+- I’m currently working on Bigdata Solutions.
+- Highly passionate about Data Science and Machine Learning.
+- Ask me about anything, I am happy to help 😄
+- How to reach me  [🌐](https://vikassri.in)
+
+### Blog posts 🏷
+<!-- BLOG-POST-LIST:START -->
+- [Cloudera CDP Private cloud...](https://vikassri.in/posts/CDP-Private-Cloud/)
+- [Security Implementation on CDP-DC...](https://vikassri.in/posts/CDP-DC-Security/)
+- [Hive Llap Memory Configuration..](https://vikassri.in/posts/llap-config/)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+### Connect with me 👋
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vikas-srivastava-21060819/)
+[<img align="left" alt="mail | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:er.vikassri@gmail.com)
+[<img align="left" alt="codeSTACKr | website" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://vikassri.in)
+<br>
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vikassri&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="vikassri" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassri&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="vikassi" width="37%" />
+
+<br>
+<br>
+<!--<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3> -->
