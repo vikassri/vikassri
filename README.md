@@ -12,7 +12,7 @@ I am working as Solutions Architect, I have around 12 years experience. I love t
 - I’m currently working on Bigdata Solutions.
 - Highly passionate about Data Science and Machine Learning.
 - Ask me about anything, I am happy to help 😄
-- How to reach me  [🌐](https://vikassri.in)
+- How to reach me  [🌐](https://vikassri.in/?target=_blank)
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
