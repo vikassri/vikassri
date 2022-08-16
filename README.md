@@ -12,23 +12,23 @@ I am working as Solutions Architect, I have around 12 years experience. I love t
 - I’m currently working on Bigdata Solutions.
 - Highly passionate about Data Science and Machine Learning.
 - Ask me about anything, I am happy to help 😄
-- How to reach me  [🌐](https://vikassri.in/?target="_blank")
+- How to reach me  [🌐](https://vikassri.com/?target="_blank")
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
 - [Check out cool app to filter stocks..](https://filterstocks.herokuapp.com/?target=_blank)
-- [Cloudera CDP Private cloud...](https://vikassri.in/posts/CDP-Private-Cloud/?target=_blank)
-- [Security Implementation on CDP-DC...](https://vikassri.in/posts/CDP-DC-Security/?target=_blank)
-- [Hive Llap Memory Configuration..](https://vikassri.in/posts/llap-config/?target=_blank)
+- [Cloudera CDP Private cloud...](https://vikassri.com/posts/CDP-Private-Cloud/?target=_blank)
+- [Security Implementation on CDP-DC...](https://vikassri.com/posts/CDP-DC-Security/?target=_blank)
+- [Hive Llap Memory Configuration..](https://vikassri.com/posts/llap-config/?target=_blank)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
 
 ### Connect with me 👋
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vikas-srivastava-21060819/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ervikassri/)
 [<img align="left" alt="mail | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:er.vikassri@gmail.com)
-[<img align="left" alt="codeSTACKr | website" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://vikassri.in)
+[<img align="left" alt="codeSTACKr | website" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://vikassri.com)
 <br>
 <br>
 
