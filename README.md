@@ -1,5 +1,5 @@
 
-### Hello World! This is [Vikas Srivastava](https://vikassri.in/) 👋
+### Hello World! This is [Vikas Srivastava](https://vikassri.com/) 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=vikassri&color=blue" alt="vikassri" /> 
