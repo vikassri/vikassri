@@ -16,7 +16,7 @@ I am working as Solutions Architect, I have around 12 years experience. I love t
 
 ### Blog posts 🏷
 <!-- BLOG-POST-LIST:START -->
-- [Check out cool app to filter stocks..](https://filterstocks.herokuapp.com/?target=_blank)
+- [Check out cool app to filter stocks..](https://filterstocks.streamlit.app/?target=_blank)
 - [Cloudera CDP Private cloud...](https://vikassri.com/posts/CDP-Private-Cloud/?target=_blank)
 - [Security Implementation on CDP-DC...](https://vikassri.com/posts/CDP-DC-Security/?target=_blank)
 - [Hive Llap Memory Configuration..](https://vikassri.com/posts/llap-config/?target=_blank)
