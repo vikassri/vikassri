@@ -80,26 +80,26 @@ I'm a **Solutions Architect** with deep experience in **enterprise data platform
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/vikassri/InvoiceAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikassri&repo=InvoiceAI&theme=tokyonight&hide_border=true&show_owner=true" alt="InvoiceAI" /></a>
+<a href="https://github.com/vikassri/InvoiceAI"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikassri&repo=InvoiceAI&theme=tokyonight&hide_border=true&show_owner=true" alt="InvoiceAI" /></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/vikassri/Python-ML-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikassri&repo=Python-ML-Analysis&theme=tokyonight&hide_border=true&show_owner=true" alt="Python-ML-Analysis" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/vikassri/sqlServerToHive_pyspark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikassri&repo=sqlServerToHive_pyspark&theme=tokyonight&hide_border=true&show_owner=true" alt="sqlServerToHive_pyspark" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/vikassri/cassandraToHive_pyspark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikassri&repo=cassandraToHive_pyspark&theme=tokyonight&hide_border=true&show_owner=true" alt="cassandraToHive_pyspark" /></a>
+<a href="https://github.com/vikassri/Python-ML-Analysis"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikassri&repo=Python-ML-Analysis&theme=tokyonight&hide_border=true&show_owner=true" alt="Python-ML-Analysis" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/vikassri/cdp-sec-score"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikassri&repo=cdp-sec-score&theme=tokyonight&hide_border=true&show_owner=true" alt="cdp-sec-score" /></a>
+<a href="https://github.com/vikassri/sqlServerToHive_pyspark"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikassri&repo=sqlServerToHive_pyspark&theme=tokyonight&hide_border=true&show_owner=true" alt="sqlServerToHive_pyspark" /></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/vikassri/cloudera-architecture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikassri&repo=cloudera-architecture&theme=tokyonight&hide_border=true&show_owner=true" alt="cloudera-architecture" /></a>
+<a href="https://github.com/vikassri/cassandraToHive_pyspark"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikassri&repo=cassandraToHive_pyspark&theme=tokyonight&hide_border=true&show_owner=true" alt="cassandraToHive_pyspark" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/vikassri/cdp-sec-score"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikassri&repo=cdp-sec-score&theme=tokyonight&hide_border=true&show_owner=true" alt="cdp-sec-score" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/vikassri/cloudera-architecture"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vikassri&repo=cloudera-architecture&theme=tokyonight&hide_border=true&show_owner=true" alt="cloudera-architecture" /></a>
 </td>
 </tr>
 </table>
