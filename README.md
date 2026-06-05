@@ -114,8 +114,8 @@ I'm a **Solutions Architect** with deep experience in **enterprise data platform
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikassri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=vikassri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vikassri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <img width="95%" src="https://streak-stats.demolab.com/?user=vikassri&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
